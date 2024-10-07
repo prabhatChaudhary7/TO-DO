@@ -1,0 +1,24 @@
+.completed-task {
+    text-decoration: line-through;
+    color: green;
+  }
+  
+  .pending-task {
+    color: red;
+  }
+  
+  .task-actions {
+    float: right;
+  }
+  
+  .task-actions button {
+    margin-left: 10px;
+  }
+  
+  .empty-message {
+    color: #999;
+    text-align: center;
+    font-style: italic;
+    margin-top: 10px;
+  }
+  
